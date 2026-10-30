@@ -342,7 +342,7 @@ def solve(
 
 
 if __name__ == "__main__":
-    base_dir = Path(__file__).resolve().parent
+    base_dir = Path(__file__).resolve().parent / "test"
 
     # Test both satisfiable and unsatisfiable instances.
     for prefix in ("sat", "unsat"):

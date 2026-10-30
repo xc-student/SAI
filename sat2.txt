@@ -1,0 +1,8 @@
+Number of students: 3
+Number of exams: 2
+Number of slots: 3
+Number of rooms: 1
+Room 0 capacity: 2
+0 0
+0 1
+1 0
